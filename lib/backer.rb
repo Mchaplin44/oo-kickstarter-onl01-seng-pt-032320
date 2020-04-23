@@ -12,3 +12,4 @@ if project.backers.include?(self)== false
   project.add_backer(self)
   end
 end
+end
